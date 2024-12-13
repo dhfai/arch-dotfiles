@@ -1,0 +1,53 @@
+2024-12-12 18:22:44.972 [info] [main] Log level: Info
+2024-12-12 18:22:44.972 [info] [main] Validating found git in: "git"
+2024-12-12 18:22:44.972 [info] [main] Using git "2.47.1" from "git"
+2024-12-12 18:22:44.972 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-12 18:22:44.972 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-12 18:22:44.972 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-12-12 18:22:44.982 [info] [Model][openRepository] Opened repository: /home/dhfai/dots-hyprland
+2024-12-12 18:22:44.994 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-12 18:22:44.995 [info] > git config --get commit.template [7ms]
+2024-12-12 18:22:45.025 [info] > git rev-parse --show-toplevel [24ms]
+2024-12-12 18:22:45.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-12-12 18:22:45.043 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:22:45.043 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-12 18:22:45.047 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-12-12 18:22:45.055 [info] > git rev-parse --show-toplevel [9ms]
+2024-12-12 18:22:45.060 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-12-12 18:22:45.061 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:22:45.065 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:22:45.068 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-12 18:22:45.072 [info] > git status -z -uall [20ms]
+2024-12-12 18:22:45.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-12-12 18:22:45.093 [info] > git config --get commit.template [7ms]
+2024-12-12 18:22:45.094 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-12-12 18:22:45.094 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-12 18:22:45.103 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-12-12 18:22:45.107 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-12-12 18:22:45.111 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:22:45.112 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-12-12 18:22:45.116 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-12-12 18:22:45.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [9ms]
+2024-12-12 18:22:45.130 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-12-12 18:22:45.132 [info] > git config --local branch.main.vscode-merge-base origin/main [2ms]
+2024-12-12 18:22:45.142 [info] > git status -z -uall [23ms] (cancelled)
+2024-12-12 18:22:45.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-12-12 18:22:45.147 [info] > git config --get commit.template [5ms]
+2024-12-12 18:22:45.148 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-12-12 18:22:45.157 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2024-12-12 18:22:45.174 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2024-12-12 18:22:45.178 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-12-12 18:22:45.182 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:22:45.182 [info] > git diff --name-status -z --diff-filter=ADMR 4ed4bf23942abf47a0fb474be4975bc088d641db...refs/remotes/origin/main [4ms]
+2024-12-12 18:22:45.183 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:22:45.192 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-12 18:22:45.206 [info] > git status -z -uall [19ms]
+2024-12-12 18:22:45.517 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-12 18:22:46.858 [info] > git config --get commit.template [5ms]
+2024-12-12 18:22:46.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-12-12 18:22:46.862 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:22:46.863 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:22:46.871 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-12 18:22:46.886 [info] > git status -z -uall [20ms]
+2024-12-12 18:22:56.409 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-12 18:23:01.251 [info] > git check-ignore -v -z --stdin [5ms]

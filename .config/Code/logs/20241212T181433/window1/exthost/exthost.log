@@ -1,0 +1,10 @@
+2024-12-12 18:14:36.468 [info] Extension host with pid 26175 started
+2024-12-12 18:14:36.468 [info] Skipping acquiring lock for /home/dhfai/.config/Code/User/workspaceStorage/43fc4c30588cab600de8b552ed91a3e5.
+2024-12-12 18:14:36.737 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-12 18:14:36.951 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-12-12 18:14:36.976 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-12 18:14:37.094 [info] Eager extensions activated
+2024-12-12 18:14:37.149 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-12 18:14:37.164 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-12 18:14:44.532 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-12 18:14:44.544 [info] Extension host with pid 26175 exiting with code 0

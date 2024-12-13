@@ -1,0 +1,199 @@
+2024-12-12 18:23:19.623 [info] [main] Log level: Info
+2024-12-12 18:23:19.623 [info] [main] Validating found git in: "git"
+2024-12-12 18:23:19.623 [info] [main] Using git "2.47.1" from "git"
+2024-12-12 18:23:19.623 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-12 18:23:19.623 [info] > git rev-parse --show-toplevel [9ms]
+2024-12-12 18:23:19.623 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.623 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.623 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.630 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.630 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.635 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.635 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.640 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.640 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.645 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.645 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.650 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.650 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.655 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.655 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.660 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.660 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.665 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.665 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.670 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.670 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.674 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.674 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.678 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-12 18:23:19.678 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.683 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.683 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.687 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.687 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.692 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.692 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.696 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.696 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.701 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.701 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.705 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-12 18:23:19.705 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.710 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.710 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:19.715 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:19.719 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-12-12 18:23:19.730 [info] [Model][openRepository] Opened repository: /home/dhfai/dots-hyprland
+2024-12-12 18:23:19.734 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-12 18:23:19.740 [info] > git config --get commit.template [2ms]
+2024-12-12 18:23:19.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-12-12 18:23:19.776 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:23:19.777 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:23:19.785 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-12 18:23:19.797 [info] > git status -z -uall [17ms]
+2024-12-12 18:23:19.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-12-12 18:23:19.814 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-12-12 18:23:19.819 [info] > git config --get commit.template [8ms]
+2024-12-12 18:23:19.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2024-12-12 18:23:19.838 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2024-12-12 18:23:19.842 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-12-12 18:23:19.845 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:23:19.845 [info] > git diff --name-status -z --diff-filter=ADMR 4ed4bf23942abf47a0fb474be4975bc088d641db...refs/remotes/origin/main [3ms]
+2024-12-12 18:23:19.846 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:23:19.856 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-12 18:23:19.868 [info] > git status -z -uall [19ms]
+2024-12-12 18:23:20.252 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-12 18:23:20.971 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:23:20.971 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:23:43.416 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:23:44.786 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-12 18:25:50.418 [info] > git check-ignore -v -z --stdin [6ms]
+2024-12-12 18:25:51.424 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-12 18:25:53.755 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-12 18:25:54.406 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:26:26.823 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:26:28.045 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-12 18:26:41.272 [info] > git show --textconv :.config/hypr/hyprland.conf [6ms]
+2024-12-12 18:26:41.274 [info] > git ls-files --stage -- /home/dhfai/dots-hyprland/.config/hypr/hyprland.conf [2ms]
+2024-12-12 18:26:41.280 [info] > git cat-file -s aa7c076c8259e6d01009e5116d7433c4e8c0caaa [1ms]
+2024-12-12 18:26:41.545 [info] > git blame --root --incremental 4ed4bf23942abf47a0fb474be4975bc088d641db -- /home/dhfai/dots-hyprland/.config/hypr/hyprland.conf [12ms]
+2024-12-12 18:26:45.264 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-12 18:26:45.264 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:27:17.153 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-12 18:27:18.526 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:27:30.827 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:27:30.827 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:27:36.254 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-12 18:27:36.254 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:27:59.711 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:28:24.941 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-12 18:28:26.607 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-12 18:29:05.249 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-12 18:29:05.266 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-12-12 18:29:05.275 [info] [Model][openRepository] Opened repository: /home/dhfai/Documents/dots-hyprland
+2024-12-12 18:29:05.285 [info] > git config --get commit.template [2ms]
+2024-12-12 18:29:05.291 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2024-12-12 18:29:05.293 [info] > git symbolic-ref --short HEAD [2ms]
+2024-12-12 18:29:05.293 [info] fatal: No such ref: HEAD
+2024-12-12 18:29:05.299 [info] > git rev-parse HEAD [1ms]
+2024-12-12 18:29:05.299 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-12-12 18:29:05.309 [info] > git status -z -uall [6ms]
+2024-12-12 18:29:05.311 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-12 18:29:05.324 [info] > git config --get commit.template [2ms]
+2024-12-12 18:29:05.324 [info] > git symbolic-ref --short HEAD [6ms]
+2024-12-12 18:29:05.324 [info] fatal: No such ref: HEAD
+2024-12-12 18:29:05.330 [info] > git rev-parse HEAD [2ms]
+2024-12-12 18:29:05.330 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-12-12 18:29:05.339 [info] > git status -z -uall [5ms]
+2024-12-12 18:29:05.340 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-12 18:29:05.839 [info] > git check-ignore -v -z --stdin [15ms]
+2024-12-12 18:29:05.842 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-12 18:29:07.972 [info] > git symbolic-ref --short HEAD [6ms]
+2024-12-12 18:29:07.972 [info] fatal: No such ref: HEAD
+2024-12-12 18:29:07.977 [info] > git config --get commit.template [6ms]
+2024-12-12 18:29:07.977 [info] > git rev-parse HEAD [1ms]
+2024-12-12 18:29:07.977 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-12-12 18:29:07.986 [info] > git status -z -uall [5ms]
+2024-12-12 18:29:07.987 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-12 18:29:13.622 [info] > git symbolic-ref --short HEAD [19ms]
+2024-12-12 18:29:13.635 [info] > git config --get commit.template [16ms]
+2024-12-12 18:29:13.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-12-12 18:29:13.643 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/Documents/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:29:13.644 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:29:13.659 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-12-12 18:29:13.660 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-12 18:29:13.674 [info] > git status -z -uall [25ms]
+2024-12-12 18:29:13.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-12-12 18:29:13.688 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-12-12 18:29:13.688 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-12 18:29:13.696 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-12-12 18:29:13.701 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-12-12 18:29:13.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2024-12-12 18:29:13.714 [info] > git config --local branch.main.vscode-merge-base origin/main [1ms]
+2024-12-12 18:29:13.727 [info] > git config --get commit.template [2ms]
+2024-12-12 18:29:13.727 [info] > git symbolic-ref --short HEAD [7ms]
+2024-12-12 18:29:13.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-12-12 18:29:13.737 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/Documents/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:29:13.738 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:29:13.749 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-12 18:29:13.765 [info] > git status -z -uall [23ms]
+2024-12-12 18:29:13.776 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-12-12 18:29:13.782 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-12-12 18:29:13.787 [info] > git config --local branch.main.vscode-merge-base [6ms]
+2024-12-12 18:29:13.792 [info] > git diff --name-status -z --diff-filter=ADMR 4ed4bf23942abf47a0fb474be4975bc088d641db...refs/remotes/origin/main [6ms]
+2024-12-12 18:29:13.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-12-12 18:29:18.722 [info] > git symbolic-ref --short HEAD [22ms]
+2024-12-12 18:29:18.732 [info] > git config --get commit.template [12ms]
+2024-12-12 18:29:18.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-12-12 18:29:18.741 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dhfai/Documents/dots-hyprland/.git/refs/remotes/origin/main'
+2024-12-12 18:29:18.743 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-12 18:29:18.760 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-12 18:29:18.783 [info] > git status -z -uall [33ms]
+2024-12-12 18:29:24.855 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/dhfai/Documents/dots-hyprland/.git/config'
+2024-12-12 18:29:24.889 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/dhfai/Documents/dots-hyprland/.git/config'
+2024-12-12 18:29:25.492 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:29:27.973 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-12 18:29:36.157 [info] > git rev-parse --show-toplevel [61ms]
+2024-12-12 18:29:36.157 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:29:37.227 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/HEAD'
+2024-12-12 18:29:37.253 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/config'
+2024-12-12 18:29:37.270 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/HEAD'
+2024-12-12 18:29:37.279 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/dhfai/dots-hyprland/.git/config'
+2024-12-12 18:32:25.498 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:32:25.498 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-12-12 18:32:28.921 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-12 18:32:28.921 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

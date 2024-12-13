@@ -29,7 +29,7 @@ sudo cp /usr/share/sddm/themes/sddm-astronaut-theme/Fonts/* /usr/share/fonts/
 
 2. Edit the SDDM configuration file:
 ```zsh
-/usr/lib/sddm/sddm.conf.d/default.conf
+sudo nano /usr/lib/sddm/sddm.conf.d/default.conf
 ```
 3. Search for the `Current` line and change the value to `sddm-astronaut-theme`.
 ```zsh

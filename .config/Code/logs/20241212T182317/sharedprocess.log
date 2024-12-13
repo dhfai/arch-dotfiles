@@ -1,0 +1,8 @@
+2024-12-12 18:23:48.853 [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, scandir '/home/dhfai/.config/Code/User/workspaceStorage'): Error: ENOENT: no such file or directory, scandir '/home/dhfai/.config/Code/User/workspaceStorage'
+    at async Object.readdir (node:internal/original-fs/promises:950:18)
+    at async Object.So (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:33:6874)
+    at async il.g (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:37350)
+2024-12-12 18:23:58.855 [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, open '/home/dhfai/.config/Code/languagepacks.json'): Error: ENOENT: no such file or directory, open '/home/dhfai/.config/Code/languagepacks.json'
+    at async open (node:internal/original-fs/promises:641:25)
+    at async Object.readFile (node:internal/original-fs/promises:1258:14)
+    at async Gc.g (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:20074)

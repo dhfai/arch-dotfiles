@@ -1,0 +1,7 @@
+2024-12-12 18:14:33.520 [info] update#setState idle
+2024-12-12 18:14:34.804 [error] Blocked vscode-webview request vscode-webview://1pf2c05kpfqjeunqk993dr5ueldg1piuvecgnda7tg5lr002mjnt/index.html?id=aec4738e-f476-4660-a4c3-4aa8255be239&origin=aec4738e-f476-4660-a4c3-4aa8255be239&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-12-12 18:14:43.727 [info] Extension host with pid 26098 exited with code: 0, signal: unknown.
+2024-12-12 18:14:44.196 [info] Extension host with pid 26177 exited with code: 0, signal: unknown.
+2024-12-12 18:14:44.401 [info] Extension host with pid 26254 exited with code: 0, signal: unknown.
+2024-12-12 18:14:44.544 [info] Extension host with pid 26175 exited with code: 0, signal: unknown.
+2024-12-12 18:14:44.568 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 26111]: crashed with code 15 and reason 'killed'
